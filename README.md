@@ -5,7 +5,8 @@ Java Screenshots
 
 <img width="1365" height="721" alt="Screenshot 2025-12-18 183028" src="https://github.com/user-attachments/assets/73e6bcca-5469-4341-8518-fcae1da9978c" />
 
-2.
+2.(Lab program 2)
+<img width="1365" height="718" alt="Screenshot 2025-12-19 080614" src="https://github.com/user-attachments/assets/ebbf52d2-b213-4e8f-9075-5e6823b7b522" />
 
 3.Book(lab program 3)
 <img width="1365" height="714" alt="Screenshot 2025-12-18 220927" src="https://github.com/user-attachments/assets/229e1c99-e0fa-41e4-94d3-d6286bd5b700" />
